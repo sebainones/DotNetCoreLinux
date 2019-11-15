@@ -1,0 +1,9 @@
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/bin/Debug/netstandard2.0/Reminders.Common.deps.json
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/bin/Debug/netstandard2.0/Reminders.Common.dll
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/bin/Debug/netstandard2.0/Reminders.Common.pdb
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/obj/Debug/netstandard2.0/Reminders.Common.csprojAssemblyReference.cache
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/obj/Debug/netstandard2.0/Reminders.Common.csproj.CoreCompileInputs.cache
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/obj/Debug/netstandard2.0/Reminders.Common.AssemblyInfoInputs.cache
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/obj/Debug/netstandard2.0/Reminders.Common.AssemblyInfo.cs
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/obj/Debug/netstandard2.0/Reminders.Common.dll
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Common/obj/Debug/netstandard2.0/Reminders.Common.pdb
