@@ -1,0 +1,14 @@
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/bin/Debug/netcoreapp2.2/Reminders.Cli.deps.json
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/bin/Debug/netcoreapp2.2/Reminders.Cli.runtimeconfig.json
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/bin/Debug/netcoreapp2.2/Reminders.Cli.runtimeconfig.dev.json
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/bin/Debug/netcoreapp2.2/Reminders.Cli.dll
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/bin/Debug/netcoreapp2.2/Reminders.Cli.pdb
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/bin/Debug/netcoreapp2.2/Reminders.Common.dll
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/bin/Debug/netcoreapp2.2/Reminders.Common.pdb
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/obj/Debug/netcoreapp2.2/Reminders.Cli.csprojAssemblyReference.cache
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/obj/Debug/netcoreapp2.2/Reminders.Cli.csproj.CoreCompileInputs.cache
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/obj/Debug/netcoreapp2.2/Reminders.Cli.AssemblyInfoInputs.cache
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/obj/Debug/netcoreapp2.2/Reminders.Cli.AssemblyInfo.cs
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/obj/Debug/netcoreapp2.2/Reminders.Cli.csproj.CopyComplete
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/obj/Debug/netcoreapp2.2/Reminders.Cli.dll
+/media/sebainones/BOOTCAMP/Codigo/Reminder/Reminders.Cli/obj/Debug/netcoreapp2.2/Reminders.Cli.pdb
